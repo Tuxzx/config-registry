@@ -1,6 +1,6 @@
 app:
   env: dev
-  var: '11'
+  var: '12'
 management:
   endpoints:
     web:
