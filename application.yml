@@ -1,2 +1,7 @@
 info:
   foo: bar
+management:
+  endpoints:
+    web:
+      exposure:
+        include=*:
